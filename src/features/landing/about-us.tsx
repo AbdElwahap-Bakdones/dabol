@@ -66,7 +66,7 @@ const AboutUs = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           {t(
-            `At Dabol, we are your trusted partner for high-quality materials and solutions in the woodworking industry. Our mission is to deliver exceptional products that meet the diverse needs of our clients, ensuring satisfaction with every purchase.`
+            `At Dabol-DBC, we are your trusted partner for high-quality materials and solutions in the woodworking industry. Our mission is to deliver exceptional products that meet the diverse needs of our clients, ensuring satisfaction with every purchase.`
           )}
         </motion.p>
         <ul className="flex flex-col gap-4 no-underline md:mt-4">
