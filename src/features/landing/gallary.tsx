@@ -14,6 +14,12 @@ import img12 from "@/assets/images/gallery/12.jpg";
 import img13 from "@/assets/images/gallery/13.jpg";
 import img14 from "@/assets/images/gallery/14.jpg";
 import img15 from "@/assets/images/gallery/15.jpg";
+import img16 from "@/assets/images/gallery/16.jpg";
+import img17 from "@/assets/images/gallery/17.jpg";
+import img18 from "@/assets/images/gallery/18.jpg";
+import img19 from "@/assets/images/gallery/19.jpg";
+import img20 from "@/assets/images/gallery/20.jpg";
+import img21 from "@/assets/images/gallery/21.jpg";
 
 import Title from "@/components/title";
 import { motion } from "framer-motion";
@@ -35,6 +41,12 @@ const images = [
   img13,
   img14,
   img15,
+  img16,
+  img17,
+  img18,
+  img19,
+  img20,
+  img21,
 ];
 
 const Gallery = () => {
