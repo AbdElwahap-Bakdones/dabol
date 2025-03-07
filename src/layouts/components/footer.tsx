@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
         <p className="text-center text-sm text-muted-foreground">
           © {new Date().getFullYear()}{" "}
-          {t("DABOL FOR TRADING. All rights reserved.")}
+          {t("DABOL FOR TRADING. All Rights reserved.")}
         </p>
       </div>
     </footer>
